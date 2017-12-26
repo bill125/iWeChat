@@ -5,8 +5,10 @@ class ServerThread
 {
 public:
     ServerThread() {}
+    
+
 protected:
 
-}
+};
 
 #endif
